@@ -43,5 +43,9 @@ Model name:                      Intel(R) Core(TM) i7-8550U CPU @ 1.80GHz
 |:----------------------|:---------------|:---------------------|
 | XPS 13 9370 i7-8550U  | Biber 2.17     | 85 seconds           |
 | XPS 13 9370 i7-8550U  | Bibtex 0.99d   | 2 seconds            |
-| Apple M2 Pro          | Biber 2.18     | 7 seconds            |
-| Apple M2 Pro          | Bibtex 0.99d   | 2 seconds            |
+| Ryzen 3950X           | Biber 2.17     | 61 seconds           |
+| Ryzen 3950X           | Bibtex 0.99d   | 1 second             |
+| Epyc 7401P            | Biber 2.17     | 109 seconds          |
+| Epyc 7401P            | Bibtex 0.99d   | 2 seconds            |
+| Apple Mac Mini M1     | Biber 2.17     | 43 seconds           |
+| Apple Mac Mini M1     | Bibtex 0.99d   | 2 seconds            |
